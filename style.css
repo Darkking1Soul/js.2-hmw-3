@@ -1,0 +1,32 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.nav {
+    width: 1500px;
+    height: 400px;
+    margin: 25px auto;
+    flex-wrap: wrap;
+    display: flex;
+}
+
+.lol {
+    width: 400px;
+    height: 350px;
+    padding: 20px;
+    margin: 20px auto;
+    border: 3px solid black;
+    border-radius: 20px;
+    text-align: center;
+}
+
+p {
+    position: fixed;
+}
+
+img {
+    width: 60%;
+    margin: 10px auto; 
+  }
